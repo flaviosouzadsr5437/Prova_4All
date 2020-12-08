@@ -17,4 +17,5 @@ public class Step2Utils {
 	
 	String msmPedidoConfirmado = "Pedido realizado com sucesso!";
 	String msmValorTotal 	   = "R$ 36,00";
+	String msmValorParcial     = "";
 }
